@@ -2,9 +2,9 @@ Markdown
 
 # My CV
 ## Personal Information:
-- ** Name: Masoud Davoodi **
-- ** Email: massoud.davoodi@gmail.com**
-- ** My Github**
+- **Name: Masoud Davoodi**
+- **Email: massoud.davoodi@gmail.com**
+- **My Github**
 [github.com/su-masoud](https://github.com/su-masoud)
 ## Skill
 - Git and Github
