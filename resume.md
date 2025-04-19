@@ -1,5 +1,3 @@
-Markdown
-
 # My CV
 ## Personal Information:
 - **Name: Masoud Davoodi**
